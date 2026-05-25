@@ -15,6 +15,8 @@
 
 I'm a developer and fursuit maker with a passion for creativity and technology. My journey began in 2019, when I started developing on the FiveM platform, learning Lua, Java, and SQL. In 2022, I expanded my skills by diving into web development with HTML and CSS, creating websites and web applications. I also enjoy cosplay crafting — I bring characters to life using a combination of math, manual and artistic skills. Whether it's coding or creating fursuits, I enjoy blending technical precision with creative expression.
 
+> 🐾 And if you want a fursuit, just DM me on Telegram! 😉
+
 ```bash
 $ whoami
 Fox1cek
