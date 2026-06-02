@@ -60,7 +60,7 @@ $ _
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tommysek&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fox1cek&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
