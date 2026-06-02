@@ -5,7 +5,7 @@
 **FiveM Developer · Lua · SQL · JavaScript · HTML · CSS**
 
 [![Website](https://img.shields.io/badge/🌐_fox1cek.com-0a0f1e?style=for-the-badge)](https://fox1cek.com/)
-[![GitHub followers](https://img.shields.io/github/followers/Tommysek?style=for-the-badge&logo=github&color=181717)](https://github.com/Fox1cek)
+[![GitHub followers](https://img.shields.io/github/followers/Fox1cek?style=for-the-badge&logo=github&color=181717)](https://github.com/Fox1cek)
 
 </div>
 
@@ -53,8 +53,8 @@ $ _
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tommysek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tommysek&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Fox1cek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fox1cek&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 
 </div>
 
