@@ -105,7 +105,8 @@ Let's create something amazing together!
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Tommysek&style=for-the-badge&color=0d1117)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Fox1cek&style=for-the-badge&color=0d1117)
 
 *Designed & Built by Fox1cek · © 2026 All rights reserved*
 
