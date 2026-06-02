@@ -5,7 +5,7 @@
 **FiveM Developer · Lua · SQL · JavaScript · HTML · CSS**
 
 [![Website](https://img.shields.io/badge/🌐_fox1cek.com-0a0f1e?style=for-the-badge)](https://fox1cek.com/)
-[![GitHub followers](https://img.shields.io/github/followers/Tommysek?style=for-the-badge&logo=github&color=181717)](https://github.com/Tommysek)
+[![GitHub followers](https://img.shields.io/github/followers/Tommysek?style=for-the-badge&logo=github&color=181717)](https://github.com/Fox1cek)
 
 </div>
 
