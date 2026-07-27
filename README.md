@@ -1,113 +1,151 @@
 <div align="center">
 
-# { Fox1cek }
+<!-- Animated Header / Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,11,12,18,24,28&height=220&section=header&text=%7B%20Fox1cek%20%7D&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=FiveM%20Developer%20%C2%B7%20Full-Stack%20Creator%20%C2%B7%20Fursuit%20Craftsman&descSize=18&descAlignY=62" width="100%" />
 
-**FiveM Developer · Lua · SQL · JavaScript · HTML · CSS**
+<!-- Subtitle Typing Animation -->
+<a href="https://fox1cek.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=45&lines=Building+Immersive+FiveM+Experiences...;Full-Stack+Web+%26+Lua+Developer;Crafting+Cosplay+%26+Fursuits+with+Precision;git+commit+-m+%22turning+coffee+into+code%22" alt="Typing SVG" />
+</a>
 
-[![Website](https://img.shields.io/badge/🌐_fox1cek.com-0a0f1e?style=for-the-badge)](https://fox1cek.com/)
-[![GitHub followers](https://img.shields.io/github/followers/Fox1cek?style=for-the-badge&logo=github&color=181717)](https://github.com/Fox1cek)
+<br/><br/>
+
+<!-- Quick Link Badges -->
+[![Website](https://img.shields.io/badge/🌐_fox1cek.com-0a0f1e?style=for-the-badge&logo=googlechrome&logoColor=00FFCC)](https://fox1cek.com/)
+[![GitHub Followers](https://img.shields.io/github/followers/Fox1cek?style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/Fox1cek)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://fox1cek.com/#contact)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://fox1cek.com/#contact)
 
 </div>
 
+<br/>
+
 ---
 
-### 🧑‍💻 About Me
+### ⚡ `whoami` // About Me
 
-I'm a developer and fursuit maker with a passion for creativity and technology. My journey began in 2019, when I started developing on the FiveM platform, learning Lua, Java, and SQL. In 2022, I expanded my skills by diving into web development with HTML and CSS, creating websites and web applications. I also enjoy cosplay crafting — I bring characters to life using a combination of math, manual and artistic skills. Whether it's coding or creating fursuits, I enjoy blending technical precision with creative expression.
-
-> 🐾 And if you want a fursuit, just DM me on Telegram! 😉
-
-```bash
-$ whoami
-Fox1cek
-$ cat experience.txt
-Started: 2019
-Specialization: FiveM Development
-Languages: [ 'lua', 'java', 'SQL', 'html', 'CSS' ]
-$ _
+```zsh
+┌──(fox1cek@cyberdeck)-[~]
+└─$ cat about_me.json
+{
+  "name": "Fox1cek",
+  "role": "FiveM & Full-Stack Developer",
+  "craft": "Cosplay & Fursuit Maker 🐾",
+  "location": "Czech Republic 🇨🇿",
+  "journey_start": 2019,
+  "specialization": ["FiveM Lua Scripting", "Custom QBCore / ESX Resources", "Web Applications"],
+  "passions": ["Combining technical precision with creative expression", "Gaming", "Crafting"]
+}
 ```
 
+> 📖 **My Story:**  
+> My journey into software development started in **2019** on the **FiveM platform**, mastering **Lua**, **Java**, and **SQL**. In **2022**, I expanded into web development (**HTML5**, **CSS3**, **JavaScript**), crafting modern web applications and UI interfaces.  
+> 
+> Beyond code, I bring characters to life as a **fursuit and cosplay maker** — blending engineering precision, geometry, and artistic crafting.
+> 
+> 🐾 *Interested in a custom fursuit or custom script? Send me a DM on Telegram!*
+
+<br/>
+
 ---
 
-### 🛠️ Skills & Experience
-
-> FiveM script development · game-script development · Lua · SQL · web development  
-> Focus on creating immersive gaming experiences and robust backend systems.
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
-![Script Box](https://img.shields.io/badge/Script_Box-0a0f1e?style=for-the-badge&logoColor=white)
+#### 🎮 Game Dev & Engine
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+[![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)](https://fivem.net/)
+[![FXServer](https://img.shields.io/badge/FXServer-00A2FF?style=for-the-badge&logo=server&logoColor=white)](https://fivem.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+#### 💻 Web & Frontend
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+
+#### 🛠️ Tools & Workflow
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
 
 </div>
 
+<br/>
+
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Analytics & Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fox1cek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fox1cek&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Fox1cek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00FFCC&icon_color=00FFCC&text_color=9ece6a" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fox1cek&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=00FFCC" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fox1cek&theme=tokyonight&hide_border=true&background=0A0F1E&fire=00FFCC&ring=00FFCC&currStreakLabel=00FFCC)](https://git.io/streak-stats)
 
 </div>
 
+<br/>
+
+---
+
+### 🚀 Featured Open Source Projects
+
+| Project | Description | Primary Tech | Status |
+| :--- | :--- | :---: | :---: |
+| 🦊 [**vehicle_image_creator**](https://github.com/Fox1cek/vehicle_image_creator) | Automatic in-game vehicle snapshot & asset generator | `Lua` | ![Active](https://img.shields.io/badge/-Active-00FFCC?style=flat-square) |
+| 🐕 [**chasek9dogsniff**](https://github.com/Fox1cek/chasek9dogsniff) | Advanced K9 Dog Sniffing & Contraband Detection System | `Lua` | ![Active](https://img.shields.io/badge/-Active-00FFCC?style=flat-square) |
+| 🏎️ [**chase_police_tuningQBCore**](https://github.com/Fox1cek/chase_police_tuningQBCore) | Police Vehicle Customization & Tuning System for QBCore | `Lua` | ![Active](https://img.shields.io/badge/-Active-00FFCC?style=flat-square) |
+| 🐾 [**chase_DogEmotemenuQBCore**](https://github.com/Fox1cek/chase_DogEmotemenuQBCore) | Interactive K9 Emote Menu & Actions for FiveM | `Lua` | ![Active](https://img.shields.io/badge/-Active-00FFCC?style=flat-square) |
+| 🥢 [**catcafeUI**](https://github.com/Fox1cek/catcafeUI) | Custom Aesthetic UI Web Interface for Cat Cafe | `HTML / CSS` | ![Active](https://img.shields.io/badge/-Active-00FFCC?style=flat-square) |
+| 🎒 [**chase_sling**](https://github.com/Fox1cek/chase_sling) | Weapon Sling & Back Attachments System | `Lua` | ![Active](https://img.shields.io/badge/-Active-00FFCC?style=flat-square) |
+
+<br/>
+
+---
+
+### 📊 Contribution Activity Graph
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Fox1cek&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fox1cek&theme=tokyo-night&hide_border=true&area=true&color=00FFCC)](https://github.com/Fox1cek)
 
 </div>
 
----
-
-### 🚀 Projects
-
-| Project | Stack |
-|---------|-------|
-| [catcafeUI](https://github.com/Fox1cek/catcafeUI) | HTML |
-| [vehicle_image_creator](https://github.com/Fox1cek/vehicle_image_creator) | Lua |
-| [chase_sling](https://github.com/Fox1cek/chase_sling) | Lua |
-| [chasek9dogsniff](https://github.com/Fox1cek/chasek9dogsniff) | Lua |
-| [chase_DogEmotemenuQBCore](https://github.com/Fox1cek/chase_DogEmotemenuQBCore) | Lua |
-| [chase_police_tuningQBCore](https://github.com/Fox1cek/chase_police_tuningQBCore) | Lua |
+<br/>
 
 ---
 
-### 📈 Activity
+### 📬 Connect With Me
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fox1cek&theme=tokyo-night&hide_border=true)](https://github.com/Tommysek)
-
-</div>
-
----
-
-### 📬 Contact
-
-<div align="center">
-
-Let's create something amazing together!
+Need a custom FiveM script, web application, or want to discuss a project? Let's connect!
 
 [![Email](https://img.shields.io/badge/Email-fox1cek.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://fox1cek.com/#contact)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://fox1cek.com/#contact)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://fox1cek.com/#contact)
+[![Website](https://img.shields.io/badge/Portfolio-fox1cek.com-00FFCC?style=for-the-badge&logo=googlechrome&logoColor=black)](https://fox1cek.com/)
 
-</div>
+<br/>
 
----
+![Visitor Count](https://komarev.com/ghpvc/?username=Fox1cek&style=for-the-badge&color=00FFCC)
 
-<div align="center">
+<br/>
 
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Fox1cek&style=for-the-badge&color=0d1117)
-
-*Designed & Built by Fox1cek · © 2026 All rights reserved*
+*Designed with 💚 & Crafted by **Fox1cek** · © 2026 All rights reserved*
 
 </div>
