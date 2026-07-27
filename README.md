@@ -79,24 +79,16 @@
 
 ### 📈 GitHub Analytics & Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fox1cek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fox1cek's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fox1cek&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
+</p>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fox1cek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00FFCC&icon_color=00FFCC&text_color=9ece6a" width="100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fox1cek&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=00FFCC" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Fox1cek&theme=tokyonight&hide_border=true&background=0A0F1E&fire=00FFCC&ring=00FFCC&currStreakLabel=00FFCC)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Fox1cek">
+    <img src="https://streak-stats.demolab.com?user=Fox1cek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 <br/>
 
@@ -119,11 +111,11 @@
 
 ### 📊 Contribution Activity Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fox1cek&theme=tokyo-night&hide_border=true&area=true&color=00FFCC)](https://github.com/Fox1cek)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Fox1cek">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fox1cek&theme=tokyo-night&hide_border=true&area=true&color=00FFCC" alt="Activity Graph" width="100%" />
+  </a>
+</p>
 
 <br/>
 
