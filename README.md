@@ -88,25 +88,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fox1cek&theme=tokyonight" alt="Languages Card" />
 </p>
 
-<br/>
-
----
-
-### 🚀 Featured Open Source Projects
-
-| Project | Description | Primary Tech | Status |
-| :--- | :--- | :---: | :---: |
-| 🦊 [**vehicle_image_creator**](https://github.com/Fox1cek/vehicle_image_creator) | Automatic in-game vehicle snapshot & asset generator | `Lua` | ![Active](https://img.shields.io/badge/-Active-00FFCC?style=flat-square) |
-| 🐕 [**chasek9dogsniff**](https://github.com/Fox1cek/chasek9dogsniff) | Advanced K9 Dog Sniffing & Contraband Detection System | `Lua` | ![Active](https://img.shields.io/badge/-Active-00FFCC?style=flat-square) |
-| 🏎️ [**chase_police_tuningQBCore**](https://github.com/Fox1cek/chase_police_tuningQBCore) | Police Vehicle Customization & Tuning System for QBCore | `Lua` | ![Active](https://img.shields.io/badge/-Active-00FFCC?style=flat-square) |
-| 🐾 [**chase_DogEmotemenuQBCore**](https://github.com/Fox1cek/chase_DogEmotemenuQBCore) | Interactive K9 Emote Menu & Actions for FiveM | `Lua` | ![Active](https://img.shields.io/badge/-Active-00FFCC?style=flat-square) |
-| 🥢 [**catcafeUI**](https://github.com/Fox1cek/catcafeUI) | Custom Aesthetic UI Web Interface for Cat Cafe | `HTML / CSS` | ![Active](https://img.shields.io/badge/-Active-00FFCC?style=flat-square) |
-| 🎒 [**chase_sling**](https://github.com/Fox1cek/chase_sling) | Weapon Sling & Back Attachments System | `Lua` | ![Active](https://img.shields.io/badge/-Active-00FFCC?style=flat-square) |
-
-<br/>
-
----
-
 ### 📊 Contribution Activity Graph
 
 <p align="center">
