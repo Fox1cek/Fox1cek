@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Header / Banner -->
+<!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,11,12,18,24,28&height=220&section=header&text=%7B%20Fox1cek%20%7D&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=FiveM%20Developer%20%C2%B7%20Full-Stack%20Creator%20%C2%B7%20Fursuit%20Craftsman&descSize=18&descAlignY=62" width="100%" />
 
 <!-- Subtitle Typing Animation -->
@@ -34,5 +34,5 @@
   "location": "Czech Republic 🇨🇿",
   "journey_start": 2019,
   "specialization": ["FiveM Lua Scripting", "Custom QBCore / ESX Resources", "Web Applications"],
-  "passions": ["Combining technical precision with creative expression", "Gaming", "Crafting"]
+  "passions": ["Combining technical precision with creative expression", "3D Printing & Crafting", "Gaming"]
 }
